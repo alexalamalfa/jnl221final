@@ -1,0 +1,79 @@
+
+
+
+body {
+	background-color: lightpink;
+	text-align: center;
+	margin:  auto;
+}
+
+
+.article{
+	background-color: ghostwhite;
+	max-width: 975px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border: 20px black, solid;
+	text-align: center;
+	margin:  auto ;
+}
+
+
+.story-top h1 {
+	font-family: "arial", sans-serif;
+	color: steelblue;
+	max-width: 975px;
+	margin:  auto ;
+	margin-left: 0px;
+	margin-right: auto;
+	padding: auto;
+	padding-top: 30px;
+} 
+
+.timestamp {
+	color: darkorange;
+	font-size: 16px;
+}
+
+.byline {
+	color: darkslategrey;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.story-text {
+	font-family:"Times New Roman", sans-serif;
+	font-size:  20px ;
+	text-align: left;
+	padding: auto;
+
+}
+
+.story-text p{
+	font-family:"Times New Roman", sans-serif;
+	font-size:  20px ;
+	text-align: left;
+	padding: auto;
+
+	
+}
+
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.lead-image{
+	max-width: 975px;
+	margin-right: auto;
+	margin-left: 0px;
+	margin:  auto;
+	height: auto;
+}
+
+
+
+
+
+
